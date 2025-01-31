@@ -28,7 +28,8 @@ const photos = [
   '/pictures/img4.jpg',
   '/pictures/img5.jpg',
   '/pictures/img6.jpg',
-  '/pictures/img7.jpg'
+  '/pictures/img7.jpg',
+  '/pictures/img8.jpg'
 ];
 
 interface SparkleProps {
